@@ -3,9 +3,9 @@ layout: post
 title: Episodio 3 Luis Mejía
 date: 2020-07-22 08:32:20 +0300
 description: Episodio tres. 10 tips para un mejor proceso de entrevistas de trabajo
-img: episodios/s01e02.jpg # Add image post (optional)
+img: episodios/s01e03.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Holidays, Hawaii]
+tags:
 ---
 
 ## 10 tips para un mejor proceso de entrevistas de trabajo
