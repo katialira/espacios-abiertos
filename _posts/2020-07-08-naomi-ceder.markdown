@@ -2,7 +2,7 @@
 layout: post
 title: Episodio 1 Naomi Ceder
 date: 2020-07-08 13:32:20 +0300
-description: Episodio uno, platica con Naomi Ceder sobre educación en cuarentena.
+description: Educación en cuarentena.
 img: episodios/s01e01.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: 
