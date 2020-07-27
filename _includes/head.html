@@ -42,7 +42,6 @@
     <meta content="{{ tag }}" property="article:tag">
     {% endfor %}
   {% endif %}
-
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@{{ site.site-twitter }}">
     <meta name="twitter:creator" content="@{{ site.social-twitter }}">
@@ -60,8 +59,10 @@
     <meta name="twitter:description" content="{{ site.description }}">
   {% endif %}
   {% if page.img %}
-    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.img }}">
+    <!-- <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.img }}"> -->
+    <meta name="twitter:image:src" content="https://argon.jekyllthemes.io/assets/img/pages/photo-15.jpg">
   {% endif %}
+
 
 	<meta name="description" content="{{ page.description }}">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
