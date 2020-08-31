@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags:
 ---
 
-## Siempre freelanceando nunca infreelanceando
+## ¿Cómo preparar unos tacos de datos?
 
 El invitado de hoy es [Sergio Sánchez](https://twitter.com/ChekosWH) de Tijuana. El fundador de [Tacos de datos](https://tacosdedatos.com/), un lugar para aprender las mejores prácticas, técnicas y conocimientos de análisis y visualización de datos en Español.
 
