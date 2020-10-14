@@ -3,7 +3,16 @@ layout: main
 ---
 <article class="article-page">
   <div class="page-content">
-    {% if page.img %}
+    {% if page.cover %}
+    <div class="page-cover-image page-cover-image_tall">
+      <figure>
+        <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.cover}} alt="{{page.title}}">
+        {% if page.fig-caption %}
+          <figcaption>{{page.fig-caption}}</figcaption>
+        {% endif %}
+      </figure>
+    </div> <!-- End Page Cover Image -->
+    {% else if page.img %}
     <div class="page-cover-image">
       <figure>
         <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
@@ -12,7 +21,6 @@ layout: main
         {% endif %}
       </figure>
     </div> <!-- End Page Cover Image -->
-    {% else %}
     {% endif %}
     <div class="wrap-content">
       <header class="header-page">

@@ -4,6 +4,7 @@ title: Episodio 1 Naomi Ceder
 date: 2020-07-08 13:32:20 +0300
 description: Educación en cuarentena.
 img: episodios/s01e01.jpg # Add image post (optional)
+cover: visualthinking/cover_s01e01.PNG
 fig-caption: # Add figcaption (optional)
 tags: 
 ---

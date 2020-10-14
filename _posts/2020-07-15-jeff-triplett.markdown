@@ -4,6 +4,7 @@ title: Episodio 2 Jeff Triplett
 date: 2020-07-15 08:32:20 +0300
 description: Proyectos Alternos, De idea a Producto.  # Add post description (optional)
 img: episodios/s01e02.jpg # Add image post (optional)
+cover: visualthinking/cover_s01e02.PNG
 fig-caption: # Add figcaption (optional)
 tags:
 ---
