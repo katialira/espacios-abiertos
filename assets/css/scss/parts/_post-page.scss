@@ -19,6 +19,7 @@
 }
 
 .page-cover-image {
+  border: 2px solid red;
   position: relative;
   padding: 0;
   margin: 0;
@@ -43,6 +44,12 @@
   .page-image {
     width: 100%;
     height: 100%;
+  }
+
+  &_tall {
+    margin: 0 auto;
+    max-height: initial;
+    max-width: 70%;
   }
 }
 
