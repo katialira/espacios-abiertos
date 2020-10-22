@@ -3,7 +3,7 @@ layout: post
 title: Episodio 12 Aleja Ruiz
 date: 2020-10-22 012:00:20 +0300
 description: Entusiastas de la fermentación
-img: episodios/s01e11.jpg # Add image post (optional)
+img: episodios/s01e12.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags:
 ---
