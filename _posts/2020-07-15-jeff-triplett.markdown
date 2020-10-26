@@ -5,6 +5,7 @@ date: 2020-07-15 08:32:20 +0300
 description: Proyectos Alternos, De idea a Producto.  # Add post description (optional)
 img: episodios/s01e02.jpg # Add image post (optional)
 cover: visualthinking/cover_s01e02.PNG
+visualthinking: visualthinking/visual_s01e02.PNG
 fig-caption: # Add figcaption (optional)
 tags:
 ---
@@ -22,13 +23,6 @@ Actalmente hay una [discusión sobre la reforma electoral](https://discuss.pytho
 Escucha ahora:
 
 <iframe src="https://anchor.fm/espaciosabiertos/embed/episodes/Proyectos-de-idea-a-producto-egpcck" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-También disponible en:
-
-* [Anchor](https://anchor.fm/espaciosabiertos)
-* [Spotify](https://open.spotify.com/show/0OZYcWCNqmhiql61kqu6ay)
-* [Apple Podcast](https://podcasts.apple.com/mx/podcast/espacios-abiertos/id1522707168)
-* [Breaker](https://www.breaker.audio/p/espacios-abiertos/)
 
 --- 
 

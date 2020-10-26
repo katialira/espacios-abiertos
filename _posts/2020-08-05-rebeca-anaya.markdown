@@ -4,6 +4,8 @@ title: Episodio 4 Rebeca Anaya
 date: 2020-08-05 017:32:20 +0300
 description: Siempre freelanceando nunca infreelanceando
 img: episodios/s01e04.jpg # Add image post (optional)
+cover: visualthinking/cover_s01e04.PNG
+visualthinking: visualthinking/visual_s01e04.PNG
 fig-caption: # Add figcaption (optional)
 tags:
 ---
@@ -18,10 +20,3 @@ Los Instagrams de Rebeca: [Portafolio](https://www.instagram.com/rebeca__anaya),
 Escucha ahora:
 
 <iframe src="https://anchor.fm/espaciosabiertos/embed/episodes/Siempre-freelanceando-nunca-infreelanceando-ehntl7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-También disponible en:
-
-* [Anchor](https://anchor.fm/espaciosabiertos)
-* [Spotify](https://open.spotify.com/show/0OZYcWCNqmhiql61kqu6ay)
-* [Apple Podcast](https://podcasts.apple.com/mx/podcast/espacios-abiertos/id1522707168)
-* [Breaker](https://www.breaker.audio/p/espacios-abiertos/)

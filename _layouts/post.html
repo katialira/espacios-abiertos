@@ -6,19 +6,13 @@ layout: main
     {% if page.cover %}
     <div class="page-cover-image page-cover-image_tall">
       <figure>
-        <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.cover}} alt="{{page.title}}">
-        {% if page.fig-caption %}
-          <figcaption>{{page.fig-caption}}</figcaption>
-        {% endif %}
+        <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.cover}} alt="{{page.fig-caption}}">
       </figure>
     </div> <!-- End Page Cover Image -->
     {% else if page.img %}
     <div class="page-cover-image">
       <figure>
-        <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
-        {% if page.fig-caption %}
-          <figcaption>{{page.fig-caption}}</figcaption>
-        {% endif %}
+        <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.fig-caption}}">
       </figure>
     </div> <!-- End Page Cover Image -->
     {% endif %}
@@ -28,7 +22,23 @@ layout: main
         <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
       </header>
       {{content | markdownify}}
-
+      {% if page.visualthinking %}
+      <h3>Representación gráfica</h3>
+      <div class="page-cover-image page-cover-image_tall">
+        <figure>
+          <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.visualthinking}} alt="{{page.fig-caption}}">
+        </figure>
+      </div> <!-- End Page Cover Image -->
+      {% endif %}
+      <footer>
+        <p>También disponible en:</p>
+        <ul>
+          <li><a href="https://anchor.fm/espaciosabiertos">Anchor</a></li>
+          <li><a href="https://open.spotify.com/show/0OZYcWCNqmhiql61kqu6ay">Spotify</a></li>
+          <li><a href="https://podcasts.apple.com/mx/podcast/espacios-abiertos/id1522707168">Apple Podcast</a></li>
+          <li><a href="https://www.breaker.audio/p/espacios-abiertos/">Breaker</a></li>
+        </ul>
+      </footer>
     </div> <!-- End Wrap Content -->
   </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->

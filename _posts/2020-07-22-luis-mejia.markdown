@@ -5,6 +5,7 @@ date: 2020-07-22 08:32:20 +0300
 description: 10 tips para un mejor proceso de entrevistas de trabajo
 img: episodios/s01e03.jpg # Add image post (optional)
 cover: visualthinking/cover_s01e03.PNG
+visualthinking: visualthinking/visual_s01e03.PNG
 fig-caption: # Add figcaption (optional)
 tags:
 ---
@@ -18,10 +19,3 @@ Hablaremos de 10 cosas que puedes hacer para mejorar tus procesos de entrevista,
 Escucha ahora:
 
 <iframe src="https://anchor.fm/espaciosabiertos/embed/episodes/10-tips-para-una-mejor-entrevista-de-trabajo-eh399s" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-También disponible en:
-
-* [Anchor](https://anchor.fm/espaciosabiertos)
-* [Spotify](https://open.spotify.com/show/0OZYcWCNqmhiql61kqu6ay)
-* [Apple Podcast](https://podcasts.apple.com/mx/podcast/espacios-abiertos/id1522707168)
-* [Breaker](https://www.breaker.audio/p/espacios-abiertos/)

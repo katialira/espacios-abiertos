@@ -17,10 +17,3 @@ Mai me acompaña hoy para platicar de todo el ambiente alrededor de una entrevis
 Escucha ahora:
 
 <iframe src="https://anchor.fm/espaciosabiertos/embed/episodes/Demistificando-la-entrevista-tcnica-ekv7lo" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-También disponible en:
-
-* [Anchor](https://anchor.fm/espaciosabiertos)
-* [Spotify](https://open.spotify.com/show/0OZYcWCNqmhiql61kqu6ay)
-* [Apple Podcast](https://podcasts.apple.com/mx/podcast/espacios-abiertos/id1522707168)
-* [Breaker](https://www.breaker.audio/p/espacios-abiertos/)

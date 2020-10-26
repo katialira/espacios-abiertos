@@ -4,6 +4,8 @@ title: Episodio 6 David Delgado
 date: 2020-08-20 012:32:20 +0300
 description: Café y negocios Latinoamericanos
 img: episodios/s01e06.jpg # Add image post (optional)
+cover: visualthinking/cover_s01e06.PNG
+visualthinking: visualthinking/visual_s01e06.PNG
 fig-caption: # Add figcaption (optional)
 tags:
 ---
@@ -20,10 +22,3 @@ Esta semana me acompaña [David Delgado](https://twitter.com/damaderu) emprended
 Escucha ahora:
 
 <iframe src="https://anchor.fm/espaciosabiertos/embed/episodes/Caf-y-negocios-Latinoamericanos-eiufa2" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-También disponible en:
-
-* [Anchor](https://anchor.fm/espaciosabiertos)
-* [Spotify](https://open.spotify.com/show/0OZYcWCNqmhiql61kqu6ay)
-* [Apple Podcast](https://podcasts.apple.com/mx/podcast/espacios-abiertos/id1522707168)
-* [Breaker](https://www.breaker.audio/p/espacios-abiertos/)

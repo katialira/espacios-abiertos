@@ -5,7 +5,8 @@ date: 2020-07-08 13:32:20 +0300
 description: Educación en cuarentena.
 img: episodios/s01e01.jpg # Add image post (optional)
 cover: visualthinking/cover_s01e01.PNG
-fig-caption: # Add figcaption (optional)
+visualthinking: visualthinking/visual_s01e01.PNG
+fig-caption: Episodio 1 Naomi Ceder. Educación en cuarentena # Add figcaption (optional)
 tags: 
 ---
 
@@ -18,10 +19,3 @@ En este primer episodios del podcast Espacios Abiertos, hablaremos con Naomi sob
 Escucha ahora:
 
 <iframe src="https://anchor.fm/espaciosabiertos/embed/episodes/Educacin-en-cuarentena-egfhbi" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-También disponible en:
-
-* [Anchor](https://anchor.fm/espaciosabiertos)
-* [Spotify](https://open.spotify.com/show/0OZYcWCNqmhiql61kqu6ay)
-* [Apple Podcast](https://podcasts.apple.com/mx/podcast/espacios-abiertos/id1522707168)
-* [Breaker](https://www.breaker.audio/p/espacios-abiertos/)
