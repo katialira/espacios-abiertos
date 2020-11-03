@@ -4,8 +4,8 @@ title: Episodio 14 Mario Corchero
 date: 2020-11-03 012:00:20 +0300
 description: Cómo convertirse en Senior Dev?
 img: episodios/s01e14.jpg # Add image post (optional)
-cover: visualthinking/cover_s01e14.PNG
-visualthinking: visualthinking/visual_s01e14.PNG
+cover: visualthinking/cover_s01e14.png
+visualthinking: visualthinking/visual_s01e14.png
 fig-caption: # Add figcaption (optional)
 tags:
 ---
