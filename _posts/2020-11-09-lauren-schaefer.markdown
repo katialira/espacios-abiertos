@@ -23,3 +23,7 @@ En este Espacio Abierto, Lauren dá muy buenos consejos basados en sus 10 años 
 Listen / Escucha ahora:
 
 <iframe src="https://anchor.fm/espaciosabiertos/embed/episodes/Remote-Work-v2-0-em812l" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+--- 
+
+Transcripción del episodio en <a href="../assets/transcriptions/s01_ep15.pdf" target="_blank">PDF</a>
