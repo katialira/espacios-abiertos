@@ -27,3 +27,5 @@ Listen / Escucha ahora:
 --- 
 
 Transcripción del episodio en <a href="../assets/transcriptions/s01_ep15.pdf" target="_blank">PDF</a>
+
+Transcripción del episodio <a href="https://www.rev.com/transcript-editor/shared/_t4KrV1u31LitLmB2fCRajnLsD_dC2Fs77sjkc8XIoZ9fWf7whvWKduuOaLb1y_lKnAStWn8hPL5kFxKUoAAgTyzGcQ?loadFrom=SharedLink" target="_blank">siguiendo el audio</a>
