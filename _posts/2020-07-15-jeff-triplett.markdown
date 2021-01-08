@@ -7,7 +7,7 @@ img: episodios/s01e02.jpg # Add image post (optional)
 cover: visualthinking/cover_s01e02.PNG
 visualthinking: visualthinking/visual_s01e02.PNG
 fig-caption: # Add figcaption (optional)
-tags:
+anchor-link: https://anchor.fm/espaciosabiertos/embed/episodes/Proyectos-de-idea-a-producto-egpcck
 ---
 
 ## Proyectos Alternos: De idea a Producto
@@ -22,7 +22,7 @@ Actalmente hay una [discusión sobre la reforma electoral](https://discuss.pytho
 
 Escucha ahora:
 
-<iframe src="https://anchor.fm/espaciosabiertos/embed/episodes/Proyectos-de-idea-a-producto-egpcck" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 --- 
 

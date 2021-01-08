@@ -7,7 +7,7 @@ img: episodios/s01e06.jpg # Add image post (optional)
 cover: visualthinking/cover_s01e06.PNG
 visualthinking: visualthinking/visual_s01e06.PNG
 fig-caption: # Add figcaption (optional)
-tags:
+anchor-link: https://anchor.fm/espaciosabiertos/embed/episodes/Caf-y-negocios-Latinoamericanos-eiufa2
 ---
 
 ## Café y negocios Latinoamericanos
@@ -18,7 +18,3 @@ Esta semana me acompaña [David Delgado](https://twitter.com/damaderu) emprended
 * [Video Kevin Hale sobre idesa](https://www.youtube.com/watch?v=DOtCl5PU8F0)
 * [Libro Rework](https://basecamp.com/books/rework)
 * [Libro Lean Startup](http://theleanstartup.com/)
-
-Escucha ahora:
-
-<iframe src="https://anchor.fm/espaciosabiertos/embed/episodes/Caf-y-negocios-Latinoamericanos-eiufa2" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

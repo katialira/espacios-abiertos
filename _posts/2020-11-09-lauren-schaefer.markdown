@@ -3,8 +3,10 @@ layout: post
 title: Episodio 15 Lauren Schaefer
 date: 2020-11-09 009:00:20 +0300
 description: Remote Work v2.0
-img: episodios/s01e15.jpg
-tags:
+img: episodios/s01e15.jpg # Add image post (optional)
+cover: visualthinking/cover_s01e15.PNG
+visualthinking: visualthinking/visual_s01e15.PNG
+anchor-link: https://anchor.fm/espaciosabiertos/embed/episodes/Remote-Work-v2-0-em812l
 ---
 
 ## Remote Work v2.0
@@ -19,10 +21,6 @@ In this Open Space, Lauren gives some great advice based on her 10 years of expe
 La invitada de hoy es [Lauren Schaefer](https://twitter.com/Lauren_Schaefer). Ingeniera de Software, developer advocate en MongoDB. Como parte de su trabajo da charlas Internacionales y escribe post técnicos. También, es Tiktoker donde dá consejo sobre trabajo remoto.
 
 En este Espacio Abierto, Lauren dá muy buenos consejos basados en sus 10 años de experiencia trabajando remoto y nos guía sobre su famosa charla de [¿Cómo hacer que realmente funcione el trabajo remoto?](https://www.youtube.com/watch?v=aujwBKvrC0o) aplicada a la pandemia en dónde muchos tuvimos que hacer el cambio de un momento a otro. 
-
-Listen / Escucha ahora:
-
-<iframe src="https://anchor.fm/espaciosabiertos/embed/episodes/Remote-Work-v2-0-em812l" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 --- 
 

@@ -7,7 +7,7 @@ img: episodios/s01e04.jpg # Add image post (optional)
 cover: visualthinking/cover_s01e04.PNG
 visualthinking: visualthinking/visual_s01e04.PNG
 fig-caption: # Add figcaption (optional)
-tags:
+anchor-link: https://anchor.fm/espaciosabiertos/embed/episodes/Siempre-freelanceando-nunca-infreelanceando-ehntl7
 ---
 
 ## Siempre freelanceando nunca infreelanceando
@@ -16,7 +16,3 @@ Platicaré [Rebeca Anaya](https://twitter.com/rebeca__anaya). Diseñadora y letr
 Hablamos de los traumas y tácticas de todo freelancer. Y sus miles de cuentas en Instagram.
 
 Los Instagrams de Rebeca: [Portafolio](https://www.instagram.com/rebeca__anaya), [TypeBasics](https://www.instagram.com/typebasics/) y [para gatitos, casas, comida, edificios, etc.](https://www.instagram.com/rebveqka).
-
-Escucha ahora:
-
-<iframe src="https://anchor.fm/espaciosabiertos/embed/episodes/Siempre-freelanceando-nunca-infreelanceando-ehntl7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

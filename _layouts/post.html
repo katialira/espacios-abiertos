@@ -23,12 +23,14 @@ layout: main
       </header>
       {{content | markdownify}}
       {% if page.visualthinking %}
-      <h3>Representación gráfica</h3>
+      <h3>Registro gráfico</h3>
       <div class="page-cover-image page-cover-image_tall">
         <figure>
           <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.visualthinking}} alt="{{page.fig-caption}}">
         </figure>
       </div> <!-- End Page Cover Image -->
+      <h4>Escucha ahora:</h4>
+      <iframe src="{{page.anchor-link}}" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
       {% endif %}
       <footer>
         <p>También disponible en:</p>
